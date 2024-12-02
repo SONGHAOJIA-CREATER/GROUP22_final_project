@@ -2,6 +2,13 @@
 
 ---
 
+1. This project is an airport management system independently developed by students with the assistance of ChatGPT（Inspiration, bug fixing, etc.）.
+2. This system does not utilize or copy any features or interface code from other open-source projects.
+3. The data used in this project consists entirely of simulated data created by the students and is not real data.  
+(Please note that there are still many features in this project that await further refinement or enhancement.)
+
+---
+
 This project consists of two parts: one is the `app.py` file (the backend server), and the other is a compressed folder containing all the frontend interface files. 
 
 When using this project, you need to download both of these files to your local computer and then follow these steps:
